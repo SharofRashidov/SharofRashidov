@@ -1,73 +1,110 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&multiline=true&width=600&height=150&lines=Hi%2C+I'm+An+%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F;I'm+a+web+developer)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Sharof</h1>
+<h3 align="center">WEB developer</h3>
 
-![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
+<p align="left"> <img
+    src="https://komarev.com/ghpvc/?username=sharofrashidov&label=Profile%20views&color=0e75b6&style=flat"
+    alt="sharofrashidov" /> </p>
 
-<!-- ## Github Contributions 📈 -->
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=SharofRashidov&theme=react-dark&hide_border=true">
-<p>
-  
-  
-| ![SharofRashidov's github stats](https://github-readme-stats.vercel.app/api?username=SharofRashidov&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharofRashidov&theme=react)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharofRashidov&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SharofRashidov&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
-  
-<!--
-**SharofRashidov/SharofRashidov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="left">
-
-![](https://komarev.com/ghpvc/?username=SharofRashidov&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
-
-</div>
-
-<details>
-<summary>Click for view detail</summary>
-  <br>
-
-📫- <b>How to reach me:</b> <br/>
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://telegram.me/SharofRashidov_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="SharofRashidov" height="30" width="40" /></a>
-
-<!--
-<a href="https://codepen.io/SharofRashidov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://dev.to/SharofRashidov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://twitter.com/SharofRashidov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phuocantd_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/SharofRashidov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7294147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7294147" height="30" width="40" /></a>
-<a href="https://codesandbox.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://kaggle.com/annguynphc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annguynphc" height="30" width="40" /></a>
-<a href="https://dribbble.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://www.behance.net/phuocantdc959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="phuocantdc959" height="30" width="40" /></a>
-<a href="https://hashnode.com/@phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@phuocantd" height="30" width="40" /></a>
-<a href="https://medium.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/phuocantd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phuocantd" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/nguyen194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nguyen194" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/phuocf9an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="phuocf9an" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/phuocantd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="phuocantd" height="30" width="40" /></a>
-
--->
+  <a href="https://t.me/sharofrashidov_02" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="sharofrashidov_" height="30"
+      width="40" /></a>
+  <a href="https://instagram.com/sharofrashidov_02" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="sharofrashidov_02" height="30" width="40" /></a>
+  <a href="https://twitter.com/sharofrashidov_" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="sharofrashidov_" height="30" width="40" /></a>
+  <a href="https://fb.com/sharofrashidov_02" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="sharofrashidov_02" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@sharofrashidov_02" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      alt="sharofrashidov_02" height="30" width="40" /></a>
 </p>
-  
-  <b align="left">Support:</b>
-<p><a href="https://www.buymeacoffee.com/SharofRashidov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SharofRashidov" /></a><a href="https://ko-fi.com/SharofRashidov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SharofRashidov" /></a></p>
-  <br>
-  <br>
-  <br/>
 
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  </a>
+  
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </a>
+
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
+  </a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/SharofRashidov"> <img align="left"
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+      alt="SharofRashidov" /></a><a href="https://ko-fi.com/SharofRashidov"> <img align="left"
+      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SharofRashidov" /></a></p>
+<br><br>
+
+<p><img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sharofrashidov&show_icons=true&locale=en&layout=compact"
+    alt="sharofrashidov" /></p>
+
+<p>&nbsp;<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=sharofrashidov&show_icons=true&locale=en"
+    alt="sharofrashidov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharofrashidov&"
+    alt="sharofrashidov" /></p>
